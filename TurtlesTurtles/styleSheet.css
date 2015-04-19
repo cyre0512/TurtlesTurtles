@@ -1,0 +1,32 @@
+﻿body {
+    background-image:url('http://wallpoper.com/images/00/31/64/31/teenage-mutant_00316431.jpg');
+}
+
+.jumbotron {
+    background-image: url('http://s3.amazonaws.com/spoonflower/public/design_thumbnails/0073/0347/rrrgiraffe_ed_shop_thumb.jpg');
+    text-align:center;
+    border: 3px solid #18530B;
+}
+
+h2 {
+    text-align: center;
+}
+
+#createTurtleTable {
+    background-image: url('http://s3.amazonaws.com/spoonflower/public/design_thumbnails/0073/0347/rrrgiraffe_ed_shop_thumb.jpg');
+    background-color: #408E2F;
+    border: 3px solid #18530B;
+    border-radius: 5px;
+    padding-bottom: 5px;
+}
+
+th {
+    text-align: center;
+}
+
+#resultTurtle {
+    background-image: url('http://s3.amazonaws.com/spoonflower/public/design_thumbnails/0073/0347/rrrgiraffe_ed_shop_thumb.jpg');
+    background-color: white;
+    
+    border-radius: 5px;
+    }
